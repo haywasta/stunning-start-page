@@ -74,7 +74,7 @@ main {
 }
 
 main p {
-  bottom-margin: 0 0 1.5rem;
+  margin: 0 0 1.5rem;
   font-size: 1.125rem;
 }
 
@@ -107,9 +107,9 @@ section ul li {
   display: grid;
   grid-template-columns: 1fr;
   grid-template-areas:
-  "top"
-  "middle"
-  "bottom";
+    "top"
+    "middle"
+    "bottom";
 }
 
 section h3 {
@@ -154,7 +154,7 @@ footer {
   justify-content: space-between;
   padding: 1rem;
   align-items: center;
-  font-size: 0.875rem;
+  font-size: .875rem;
 }
 
 footer a {
