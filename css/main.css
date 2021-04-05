@@ -60,3 +60,16 @@ nav a {
   text-transform: uppercase;
   color: #eccee2;
 }
+
+nav a:hover {
+  background-color: #960062;
+}
+
+main {
+  padding: 0 1rem;
+}
+
+main p {
+  bottom-margin: 0 0 1.5rem;
+  font-size: 1.125rem;
+}
