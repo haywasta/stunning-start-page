@@ -148,3 +148,15 @@ section div img {
 section div strong {
   font-weight: normal;
 }
+
+footer {
+  display: flex;
+  justify-content: space-between;
+  padding: 1rem;
+  align-items: center;
+  font-size: 0.875rem;
+}
+
+footer a {
+  color: #fff;
+}
